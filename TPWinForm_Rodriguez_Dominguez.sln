@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPWinForm_Rodriguez_Dominguez", "TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez.csproj", "{7F9647CE-4EFF-4EF5-BDE5-0C2D4B913584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{8A4716B2-052F-4643-9B1F-BCEDA58C0E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9647CE-4EFF-4EF5-BDE5-0C2D4B913584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9647CE-4EFF-4EF5-BDE5-0C2D4B913584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9647CE-4EFF-4EF5-BDE5-0C2D4B913584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9647CE-4EFF-4EF5-BDE5-0C2D4B913584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4716B2-052F-4643-9B1F-BCEDA58C0E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4716B2-052F-4643-9B1F-BCEDA58C0E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4716B2-052F-4643-9B1F-BCEDA58C0E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4716B2-052F-4643-9B1F-BCEDA58C0E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF851EF1-D458-4116-A374-D9B94B8B389F}
+	EndGlobalSection
+EndGlobal
