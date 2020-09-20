@@ -108,56 +108,62 @@
             // txtCodigoD
             // 
             this.txtCodigoD.Location = new System.Drawing.Point(294, 90);
-            this.txtCodigoD.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtCodigoD.Margin = new System.Windows.Forms.Padding(6);
             this.txtCodigoD.Name = "txtCodigoD";
+            this.txtCodigoD.ReadOnly = true;
             this.txtCodigoD.Size = new System.Drawing.Size(288, 31);
             this.txtCodigoD.TabIndex = 6;
             // 
             // txtNombreD
             // 
             this.txtNombreD.Location = new System.Drawing.Point(294, 140);
-            this.txtNombreD.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtNombreD.Margin = new System.Windows.Forms.Padding(6);
             this.txtNombreD.Name = "txtNombreD";
+            this.txtNombreD.ReadOnly = true;
             this.txtNombreD.Size = new System.Drawing.Size(288, 31);
             this.txtNombreD.TabIndex = 7;
             // 
             // txtMarcaD
             // 
             this.txtMarcaD.Location = new System.Drawing.Point(294, 340);
-            this.txtMarcaD.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtMarcaD.Margin = new System.Windows.Forms.Padding(6);
             this.txtMarcaD.Name = "txtMarcaD";
+            this.txtMarcaD.ReadOnly = true;
             this.txtMarcaD.Size = new System.Drawing.Size(288, 31);
             this.txtMarcaD.TabIndex = 8;
             // 
             // txtCategoriaD
             // 
             this.txtCategoriaD.Location = new System.Drawing.Point(294, 390);
-            this.txtCategoriaD.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtCategoriaD.Margin = new System.Windows.Forms.Padding(6);
             this.txtCategoriaD.Name = "txtCategoriaD";
+            this.txtCategoriaD.ReadOnly = true;
             this.txtCategoriaD.Size = new System.Drawing.Size(288, 31);
             this.txtCategoriaD.TabIndex = 9;
             // 
             // txtPrecioD
             // 
             this.txtPrecioD.Location = new System.Drawing.Point(294, 444);
-            this.txtPrecioD.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtPrecioD.Margin = new System.Windows.Forms.Padding(6);
             this.txtPrecioD.Name = "txtPrecioD";
+            this.txtPrecioD.ReadOnly = true;
             this.txtPrecioD.Size = new System.Drawing.Size(288, 31);
             this.txtPrecioD.TabIndex = 10;
             // 
             // txtDescripcionD
             // 
             this.txtDescripcionD.Location = new System.Drawing.Point(294, 190);
-            this.txtDescripcionD.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtDescripcionD.Margin = new System.Windows.Forms.Padding(6);
             this.txtDescripcionD.Multiline = true;
             this.txtDescripcionD.Name = "txtDescripcionD";
+            this.txtDescripcionD.ReadOnly = true;
             this.txtDescripcionD.Size = new System.Drawing.Size(522, 135);
             this.txtDescripcionD.TabIndex = 11;
             // 
             // picArticulo
             // 
             this.picArticulo.Location = new System.Drawing.Point(828, 67);
-            this.picArticulo.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.picArticulo.Margin = new System.Windows.Forms.Padding(6);
             this.picArticulo.Name = "picArticulo";
             this.picArticulo.Size = new System.Drawing.Size(430, 408);
             this.picArticulo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -167,7 +173,7 @@
             // btnVolver
             // 
             this.btnVolver.Location = new System.Drawing.Point(364, 533);
-            this.btnVolver.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btnVolver.Margin = new System.Windows.Forms.Padding(6);
             this.btnVolver.Name = "btnVolver";
             this.btnVolver.Size = new System.Drawing.Size(150, 44);
             this.btnVolver.TabIndex = 13;
@@ -195,7 +201,7 @@
             this.Controls.Add(this.lblDescripcionD);
             this.Controls.Add(this.lblNombreD);
             this.Controls.Add(this.lblCodigoD);
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.MaximumSize = new System.Drawing.Size(1422, 656);
             this.MinimumSize = new System.Drawing.Size(1422, 656);
             this.Name = "frmVerDetalle";
