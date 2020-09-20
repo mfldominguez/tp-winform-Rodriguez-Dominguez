@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio
 {
-    class Articulo
+    public class Articulo
     {
         public int Id { get; set; }
         public string CodArt { get; set; }
@@ -17,3 +17,4 @@ namespace Dominio
 
     }
 }
+

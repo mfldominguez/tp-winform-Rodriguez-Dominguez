@@ -1,0 +1,17 @@
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmInicio.resources
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmVerDetalle.resources
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.Properties.Resources.resources
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\TPWinForm_Rodriguez_Dominguez.exe.config
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\TPWinForm_Rodriguez_Dominguez.exe
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\TPWinForm_Rodriguez_Dominguez.pdb
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Dominio.dll
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Negocio.dll
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Dominio.pdb
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Negocio.pdb
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csproj.CopyComplete
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.exe
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.pdb
+C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmAMArticulo.resources
