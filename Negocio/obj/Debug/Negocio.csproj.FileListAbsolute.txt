@@ -7,3 +7,12 @@ C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\Negocio\bin\Debug\D
 C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\Negocio\obj\Debug\Negocio.dll
 C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.pdb

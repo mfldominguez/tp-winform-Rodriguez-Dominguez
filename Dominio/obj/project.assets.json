@@ -187,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\tp-winform-Rodriguez-Dominguez\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta2\\tp-winform-Rodriguez-Dominguez\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\tp-winform-Rodriguez-Dominguez\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta2\\tp-winform-Rodriguez-Dominguez\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\tp-winform-Rodriguez-Dominguez\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta2\\tp-winform-Rodriguez-Dominguez\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

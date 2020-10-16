@@ -15,3 +15,20 @@ C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez
 C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.exe
 C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.pdb
 C:\Users\Fernando\source\repos\TPWinForm_Rodriguez_Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmAMArticulo.resources
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\TPWinForm_Rodriguez_Dominguez.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\TPWinForm_Rodriguez_Dominguez.exe
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\TPWinForm_Rodriguez_Dominguez.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmAMArticulo.resources
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmInicio.resources
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.frmVerDetalle.resources
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.exe
+C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\TPWinForm_Rodriguez_Dominguez\obj\Debug\TPWinForm_Rodriguez_Dominguez.pdb
