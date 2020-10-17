@@ -11,12 +11,12 @@
     <div class="card-columns" style="margin-left: 15px; margin-right: 5px;">
         <%       foreach (var item in ListaArticulos)
             { %>
-        <div class="card" style="width: 18rem;">
+        <div class="card border-primary mb-3" style="width: 18rem;">
             <img src="<% = item.ImagenURL %>" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title"><% = item.Nombre %></h5>
                 <p class="card-text"><% = item.Precio %></p>
-                <a href="Detalles.aspx?idart=<% = item.Id.ToString() %>" class="btn btn-primary">Seleccionar</a>
+                <a href="Detalles.aspx?cArt=<% = item.CodArt.ToString() %>" class="btn btn-primary">Seleccionar</a>
             </div>
         </div>
         <% } %>

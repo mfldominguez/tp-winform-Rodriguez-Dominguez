@@ -61,3 +61,17 @@ C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Vieew\obj
 C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.csproj.CopyComplete
 C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.dll
 C:\Users\Usuario\Desktop\Nueva carpeta2\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.pdb
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Vieew.dll.config
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Vieew.dll
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Vieew.pdb
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Dominios.dll
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Negocio.dll
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Dominios.pdb
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Negocio.pdb
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.csproj.CopyComplete
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.dll
+C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Vieew\obj\Debug\Vieew.pdb
