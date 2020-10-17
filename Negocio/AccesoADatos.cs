@@ -15,8 +15,8 @@ namespace Negocio
 
         public AccesoADatos()
         {
-            conexion = new SqlConnection("data source = DESKTOP-I7DTO75\\SQLEXPRESS01 ; initial catalog = CATALOGO_DB ; integrated security = sspi");
-           // conexion = new SqlConnection("data source=DESKTOP-EEH48JR\\SQLEXPRESS; initial catalog= RODRIGUEZ_DB; integrated security= sspi");
+           // conexion = new SqlConnection("data source = DESKTOP-I7DTO75\\SQLEXPRESS01 ; initial catalog = CATALOGO_DB ; integrated security = sspi");
+            conexion = new SqlConnection("data source=DESKTOP-EEH48JR\\SQLEXPRESS; initial catalog= CATALOGO_DB ; integrated security= sspi");
 
             comando = new SqlCommand();
 

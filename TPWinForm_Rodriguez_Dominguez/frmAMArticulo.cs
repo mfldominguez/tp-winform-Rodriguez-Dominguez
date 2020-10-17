@@ -90,7 +90,7 @@ namespace TPWinForm_Rodriguez_Dominguez
                 articulo.Marca = (Marca)cboVAMMarca.SelectedItem;
                 articulo.Categoria = (Categoria)cboVAMCategoria.SelectedItem;
                 articulo.ImagenURL = txtVAMImagenURL.Text;
-                articulo.Precio = Convert.ToDecimal(txtVAMPrecio.Text);
+                articulo.Precio = Convert.ToInt32(txtVAMPrecio.Text);
 
 
                 if (articulo.Id != 0)
