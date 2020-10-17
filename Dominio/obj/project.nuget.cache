@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RCZ/YoWiFuSYUCvCK5/E13+bAeso49weyN4YLlRSp3eCDz/nUBj0GJ1rR58xLiypaMxztAWyPKtjT2pwFKtUSw==",
+  "dgSpecHash": "OAYuW2Sj/LpX1xWXPnuZVsncTkmTw+6xx5OYOpsfdUC0j+TUL+SYhmDHBJqUUbxBoN9EVFyU5nhvuXaj/ZXCyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta2\\tp-winform-Rodriguez-Dominguez\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Fernando\\source\\repos\\TPCatalogoWeb\\tp-winform-Rodriguez-Dominguez\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
