@@ -70,6 +70,7 @@
     <Content Include="Articulos.aspx" />
     <Content Include="Detalles.aspx" />
     <Content Include="Session.aspx" />
+    <Content Include="VerCarrito.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -101,6 +102,13 @@
     </Compile>
     <Compile Include="Session.aspx.designer.cs">
       <DependentUpon>Session.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VerCarrito.aspx.cs">
+      <DependentUpon>VerCarrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VerCarrito.aspx.designer.cs">
+      <DependentUpon>VerCarrito.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

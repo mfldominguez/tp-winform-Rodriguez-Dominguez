@@ -13,10 +13,30 @@ namespace Vieew
         {
 
         }
-        protected void btnAceptar_Click(object sender, EventArgs e)
+        protected void btnIniciar_Click(object sender, EventArgs e)
         {
-            Session[Session.SessionID + "nombreusuario"] = txtEmail.Text;
-            Response.Redirect("Articulos.aspx");
+            if (txtUser.Text == "" && txtPass.Text == "")
+            {
+                lblCompletar.Visible = true;    
+                lblFaltaPass.Visible = false;
+                lblFaltaUser.Visible = false;
+            }
+            else if (txtUser.Text == "")
+            {
+                lblFaltaUser.Visible = true;
+                lblCompletar.Visible = false;
+            }
+            else if (txtPass.Text == "")
+            {
+                lblFaltaPass.Visible = true;
+                lblCompletar.Visible = false;
+            }
+            else
+            {
+                Session["userName"] = txtUser.Text;
+                Response.Redirect("Articulos.aspx");
+            }
+
         }
     }
 }

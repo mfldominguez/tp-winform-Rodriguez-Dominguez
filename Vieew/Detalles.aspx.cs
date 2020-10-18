@@ -58,7 +58,7 @@ namespace Vieew
                     listaCarrito.Add(item);
                     Session["listaCarrito"] = listaCarrito;
                 }
-                Response.Redirect("Home.aspx");
+                Response.Redirect("Articulos.aspx");
             }
         }
 

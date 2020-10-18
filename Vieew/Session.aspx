@@ -2,25 +2,30 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" runat="server">
+
     <div class="container">
-        <div class="row">
-            <div class="col">
-                <h1>Login</h1>
+            <div class="display-4 text-primary">
+                Iniciar Sesion
             </div>
-        </div>
-        <div class="row">
-            <div class=" col">
-                <div class="form-group">
-                    <label>Direccion de email</label>
-                    <asp:TextBox ID="txtEmail" CssClass="form-control" runat="server" />
-                    <small id="emailHelp" class="form-text text-muted">Acordate del "@"</small>
-                </div>
-                <div class="form-group">
-                    <label>Contraseña</label>
-                    <asp:TextBox ID="txtPassword" CssClass="form-control" TextMode="Password" runat="server" />
-                </div>
-                <asp:Button Text="Aceptar" ID="btnAceptar" CssClass="btn btn-primary" runat="server" OnClick="btnAceptar_Click" />
+            <div class="form-group mt-4">
+                <label class="text-primary">Nombre de Usuario</label>
+                <asp:TextBox CssClass="form-control" Columns="90" MaxLength="80" ID="txtUser" runat="server" />
             </div>
+            <div class="form-group mt-2">
+                <label  class="text-primary">Contraseña</label>
+                <asp:TextBox CssClass="form-control d-block" Columns="90" MaxLength="8" TextMode="Password" ID="txtPass" runat="server" />
+            </div>
+            <div class="display-7 text-danger"  style="width:500px">
+                <asp:Label ID="lblCompletar"  Visible="false" Text="Debe Ingresar Usuario y contraseña para ingresar" runat="server" />
+            </div>
+            <div class="display-7 text-danger"  style="width:500px">
+                <asp:Label ID="lblFaltaUser"  Visible="false" Text="Debe Ingresar un Usuario para ingresar" runat="server" />
+            </div>
+            <div class="display-7 text-danger"  style="width:500px">
+                <asp:Label ID="lblFaltaPass"  Visible="false" Text="Debe Ingresar la contraseña para ingresar" runat="server" />
+            </div>
+            <asp:Button Text="Iniciar" CssClass="btn btn-primary" ID="btnIniciar" runat="server" OnClick="btnIniciar_Click" />
         </div>
-    </div>
+
+
 </asp:Content>
