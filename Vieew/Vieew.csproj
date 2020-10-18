@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Articulos.aspx" />
+    <Content Include="Desloguear.aspx" />
     <Content Include="Detalles.aspx" />
     <Content Include="Session.aspx" />
     <Content Include="VerCarrito.aspx" />
@@ -80,6 +81,13 @@
     </Compile>
     <Compile Include="Articulos.aspx.designer.cs">
       <DependentUpon>Articulos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Desloguear.aspx.cs">
+      <DependentUpon>Desloguear.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Desloguear.aspx.designer.cs">
+      <DependentUpon>Desloguear.aspx</DependentUpon>
     </Compile>
     <Compile Include="Detalles.aspx.cs">
       <DependentUpon>Detalles.aspx</DependentUpon>

@@ -21,10 +21,18 @@ namespace Vieew
                 ListaArticulos = negocio.Listar();
                 if (!IsPostBack)
                 {
-                    if (Session[Session.SessionID + "userName"] != null)
+                    //if (Session[Session.SessionID + "userName"] != null)
+
+                    if (Session["userName"] != null)
+
                     {
                         lblBienvenida.Visible = true;
-                        lblBienvenida.Text += Session[Session.SessionID + "userName"].ToString();
+                        //lblBienvenida.Text += Session[Session.SessionID + "userName"].ToString();
+                        lblBienvenida.Text += Session["userName"].ToString();
+                    }
+                    else 
+                    {
+                        lblBienvenida.Visible = false;
                     }
 
                 }
