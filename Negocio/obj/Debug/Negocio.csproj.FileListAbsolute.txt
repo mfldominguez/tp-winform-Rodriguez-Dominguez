@@ -25,3 +25,12 @@ C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Nego
 C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.dll
 C:\Users\Fernando\source\repos\TPCatalogoWeb\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Dominios.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\bin\Debug\Dominios.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\tp-winform-Rodriguez-Dominguez\Negocio\obj\Debug\Negocio.pdb

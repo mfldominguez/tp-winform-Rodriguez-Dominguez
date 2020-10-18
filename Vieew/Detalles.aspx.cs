@@ -16,7 +16,6 @@ namespace Vieew
         {
             ArticuloNegocio articuloNegocio = new ArticuloNegocio();
             List<Articulo> lista;
-
             try
             {
                 lista = articuloNegocio.Listar();
@@ -33,6 +32,10 @@ namespace Vieew
 
         protected void btnAgregarAlCarrito_Click(object sender, EventArgs e)
         {
+            if (Session["userName"] == null)
+            {
+                Response.Redirect("Session.aspx");
+            }
             if (txtBoxCantidad.Text == "" ||
                 !int.TryParse(txtBoxCantidad.Text, out int result))
             {
